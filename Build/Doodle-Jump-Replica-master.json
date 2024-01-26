@@ -1,0 +1,13 @@
+{
+"companyName": "Stacy Ukraine",
+"productName": "Opal Jump",
+"dataUrl": "Doodle-Jump-Replica-master.data.unityweb",
+"wasmCodeUrl": "Doodle-Jump-Replica-master.wasm.code.unityweb",
+"wasmFrameworkUrl": "Doodle-Jump-Replica-master.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
